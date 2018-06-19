@@ -47,6 +47,9 @@ public class UserProfileActivity extends AppCompatActivity {
                 finish();
                 startActivity(new Intent(this, UserProfileActivity.class));
                 return true;
+            case R.id.andmebaas:
+                finish();
+                startActivity(new Intent(this,MainAndmed.class));
         }
         return false;
     }

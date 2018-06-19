@@ -14,4 +14,11 @@
     <string name="kasutaja">Kasutaja profiil</string>
     <string name="pilt">Lisa pilt</string>
     <string name="Andmebaas">Andmebaas</string>
+    <string name="text">Lisa tooteid andmebaasi</string>
+    <string name="toote_string">Nimi</string>
+    <string name="kogus_string">Kogus</string>
+    <string name="hind_string">Hind</string>
+    <string name="lisa">Lisa</string>
+    <string name="uuenda">uuenda</string>
+    <string name="kustuta">kustuta</string>
 </resources>
